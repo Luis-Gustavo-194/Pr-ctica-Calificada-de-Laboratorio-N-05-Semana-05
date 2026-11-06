@@ -1,0 +1,13 @@
+# Entorno virtual
+.venv/
+venv/
+
+# Caché de Python
+__pycache__/
+*.pyc
+
+# Secretos: nunca subir la API key
+.env
+
+# Configuración local de VS Code
+.vscode/
